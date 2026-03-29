@@ -1,0 +1,7 @@
+{
+    "name": "neko-stack",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "echo 'Iniciando...' && npx serve ."
+    }
+}
